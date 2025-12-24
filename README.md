@@ -2,9 +2,6 @@
 
 The site features dynamic animations inspired by anime-themed aesthetics, technical skill highlights, project showcases, and seamless user interactions.
 
-***
-
-The website is currently deployed and publicly accessible at : https://adimaitre.pages.dev
 
 ***
 
@@ -112,3 +109,4 @@ Please fork the repo and submit pull requests for your improvements.
 ***
 
 *Crafted with passion and spiritual energy.*
+
