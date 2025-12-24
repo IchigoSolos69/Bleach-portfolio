@@ -21,13 +21,6 @@ The site features dynamic animations inspired by anime-themed aesthetics, techni
 
 ***
 
-## Website Deployment and Availability
-
-It is hosted on **Cloudflare Pages**, which provides continuous deployment from the GitHub repository and ensures very high availability - the site is accessible 24/7 with minimal downtime.
-
-This setup guarantees fast global delivery and automatic updates whenever changes are pushed to the main branch.
-
-***
 
 ## Installation
 
@@ -109,4 +102,5 @@ Please fork the repo and submit pull requests for your improvements.
 ***
 
 *Crafted with passion and spiritual energy.*
+
 
